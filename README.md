@@ -47,19 +47,14 @@ This project develops a **Random Forest Classifier** to predict COVID-19 status 
   | F1-Score     | 92%    |
 
 - **Feature Importance**:
-  ![Top Features](https://via.placeholder.com/400x200?text=Top+Features:+Age,+Fever,+Oxygen+Saturation,+Fatigue)
   *(Age, fever temperature, and oxygen saturation were top predictors.)*
 
 ### **Decision Tree**
 - **Interpretable splits** (e.g., cough, fever, vomiting).
-- **Visualization**:
-  ![Decision Tree](https://via.placeholder.com/400x200?text=Decision+Tree+Visualization)
 
 ---
 
 ## **📈 Results**
-- **ROC Curve**:
-  ![ROC Curve](https://via.placeholder.com/400x200?text=ROC+Curve+AUC%3D0.95)
   *(AUC = 0.95, indicating strong discriminatory power.)*
 - **Business Impact**:
   - **Reduced testing burden** by filtering low-risk patients.
